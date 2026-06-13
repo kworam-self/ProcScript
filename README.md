@@ -50,11 +50,11 @@ CORS Demo
 ------------------------------
 The repository is here:
 
-https://github.com/kworam/ProcScriptCorsDemo
+https://github.com/kworam-self/ProcScriptCorsDemo
 
 and you can try running it here:
 
-http://kworam.github.io/ProcScriptCorsDemo/
+https://kworam-self.github.io/ProcScriptCorsDemo/
 
 The CORS demo sends Cross Origin Resource Sharing (CORS) requests to websites and shows how to use ProcScript 
 to make XmlHttpRequests and write to a WebSQL database. 
@@ -64,11 +64,11 @@ Proc Runner Demo
 ------------------------------
 The repository is here:
 
-https://github.com/kworam/ProcScriptRunnerDemo
+https://github.com/kworam-self/ProcScriptRunnerDemo
 
 and you can try running it here:
 
-http://kworam.github.io/ProcScriptRunnerDemo/
+http://kworam-self.github.io/ProcScriptRunnerDemo/
 
 The Proc Runner demo shows how to run multiple Procs in Sequence, Parallel, Fallback or Race operations with Proc Runners.  The 
 attractive, interactive GUI gives you full control over duration, timeout and abort and allows arbitrary nesting of Proc Runners.
