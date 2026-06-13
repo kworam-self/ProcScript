@@ -3,7 +3,7 @@ ProcScript
 
 A JavaScript framework that makes it easier to do large-scale application development.
 
-I originally developed this in 2013 in my old, abandoned github account (https://github.com/kworam)
+NOTE: I originally developed this in 2013 in my old, abandoned github account (https://github.com/kworam)
 and have preserved it here for sentimental reasons.
 
 
